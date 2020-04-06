@@ -3,20 +3,20 @@ entries:
   helm-cabin:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-06T19:26:53.201431795Z"
+    created: "2020-04-06T19:28:31.491564881Z"
     description: A Helm chart for Kubernetes
-    digest: 891cc9d9ceddf91b286bfd19d9f4b3e3c361a01eb47d7366fae467f4ed99cbd5
+    digest: 16192080830ce17d5693af89f23e15c0b4a1b5dd789038438966dd5116cd1fc9
     name: helm-cabin
     urls:
     - helm-cabin-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-04-06T19:26:53.200919393Z"
+    created: "2020-04-06T19:28:31.490941287Z"
     description: A Helm chart for Kubernetes
     digest: 4a0d23e84efa6f5b64e10045e45cf918e1c61e6857bb79702cd253882c1f2612
     name: helm-cabin
     urls:
     - helm-cabin-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-06T19:26:53.20022589Z"
+generated: "2020-04-06T19:28:31.489565301Z"
